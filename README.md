@@ -26,7 +26,7 @@ Para a trilha sonora, utilizei o Suno para criar uma música que transmitisse mi
 ## *Finalização*
 
 Combinando os textos, imagens e sons, montei uma apresentação no Canva, formatando tudo como se fosse o portfólio de um estúdio criativo.
-
+    
 ## 🚀 *Resultados*
 Imagens
 Cidade Futurista - Skyline Noturno
@@ -36,12 +36,17 @@ Cidade Futurista - Skyline Noturno
 
 Personagem Principal - Caçador de Recompensas
 
+![Firefly Um homem olhando para nós de capa escura em uma cidade futurista neon  Cores vibrantes, atmo](https://github.com/user-attachments/assets/a78910ed-4333-4175-ba06-a88c7a259194)
+
+
+
 ## *Texto*
 Descrição do Universo
 "Num futuro onde magia e tecnologia coexistem, a galáxia enfrenta um colapso iminente. Uma antiga profecia aponta para um grupo improvável de heróis, cada um com segredos que podem salvar ou destruir tudo."
 
 ## *Áudio*
 Trilha sonora do mundo fictício
+> Link para a trilha: https://suno.com/song/30d6a24b-140f-4e60-9cfa-92ab971c3995
 
 
 # 💭 Reflexão
