@@ -1,51 +1,49 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
+# Criando Mundos Virtuais com IA Generativa
 ## 📒 Descrição
-Breve descrição do seu projeto
+> Este projeto demonstra como as IAs Generativas podem ser usadas para criar um universo fictício completo, combinando texto, imagens e sons. A proposta é desenvolver a ambientação de um mundo fictício, incluindo:
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+## História e Lore: Texto descritivo gerado por IA.
+### **Arte Conceitual:** Cenários e personagens desenvolvidos com ferramentas de geração de imagens.
+### **Trilha Sonora:** Sons ambientes e música criados por IA para imersão.
+🤖 Tecnologias Utilizadas
+### *ChatGPT:* Criação de textos e narrativa do universo fictício.
+### *Adobe FireFly:* Geração de arte conceitual para cenários e personagens.
+### *Suno:* Composição de trilhas sonoras personalizadas para o mundo fictício.
+### *Canva:* Design final para apresentação dos conteúdos.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Planejamento
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Escolhi criar um mundo futurista com elementos de fantasia, inspirado por filmes como Blade Runner e Star Wars.
+Defini os pilares do universo: locais, personagens principais e conflitos.
+Desenvolvimento
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Usei o ChatGPT para criar descrições detalhadas dos locais e personagens.
+Com o Adobe FireFly, desenvolvi imagens de cidades futuristas, interiores de naves espaciais e avatares dos personagens principais.
+Para a trilha sonora, utilizei o Suno para criar uma música que transmitisse mistério e aventura.
 
-### Exemplos e Insigths
+## *Finalização*
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Combinando os textos, imagens e sons, montei uma apresentação no Canva, formatando tudo como se fosse o portfólio de um estúdio criativo.
 
-## Links Interessantes
+## 🚀 *Resultados*
+Imagens
+Cidade Futurista - Skyline Noturno
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+![Firefly Uma cidade futurista à noite, com arranha-céus altos iluminados por luzes neon em tons de az](https://github.com/user-attachments/assets/217a635e-7ee2-467f-828f-46ccb8243275)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+
+Personagem Principal - Caçador de Recompensas
+
+## *Texto*
+Descrição do Universo
+"Num futuro onde magia e tecnologia coexistem, a galáxia enfrenta um colapso iminente. Uma antiga profecia aponta para um grupo improvável de heróis, cada um com segredos que podem salvar ou destruir tudo."
+
+## *Áudio*
+Trilha sonora do mundo fictício
+
+
+# 💭 Reflexão
+### Criar este projeto foi desafiador e extremamente divertido. Foi interessante perceber como cada ferramenta contribui de forma única. A experiência me fez valorizar ainda mais o papel do humano como curador e guia criativo no uso de IAs.
+
